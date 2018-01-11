@@ -1,0 +1,187 @@
+{
+    
+        "F1": [
+            {
+                "title": "主席致辞",
+                "name": "none"
+            },
+            {
+                 "title": "集团概况",
+                "name": "none"
+            },
+            {
+                 "title": "集团战略",
+                "name": "none"
+            },
+            {
+                "title": "核心优势",
+                "name": "none"
+            },
+            {
+                "title": "发展历程",
+                "name": "none"
+            },
+            {
+                "title": "管理团队",
+                "name": "none"
+            },
+            {
+                "title": "集团品牌",
+                "name": "none"
+            },
+            {
+                "title": "党建工作",
+                "name": "none"
+            }
+        ],
+        "F2": [
+            {
+                "title": "集团新闻",
+                "name": "none"
+            },
+            {
+                 "title": "地区公司新闻",
+                "name": "none"
+            },
+            {
+                 "title": "下属公司新闻",
+                "name": "none"
+            },
+            {
+                "title": "媒体关注",
+                "name": "none"
+            }
+        ],
+        "F3": [
+            {
+                "title": "地产",
+                "name": "none"
+            },
+            {
+                 "title": "金融",
+                "name": "none"
+            },
+            {
+                 "title": "互联网",
+                "name": "none"
+            },
+            {
+                "title": "健康",
+                "name": "none"
+            },
+            {
+                "title": "旅游",
+                "name": "none"
+            },
+            {
+                "title": "文化",
+                "name": "none"
+            },
+            {
+                "title": "体育",
+                "name": "none"
+            }
+        ],
+        "F4": [
+            {
+                "title": "管理之道",
+                "name": "none"
+            },
+            {
+                 "title": "企业宗旨",
+                "name": "none"
+            },
+            {
+                 "title": "企业精神",
+                "name": "none"
+            },
+            {
+                "title": "企业作风",
+                "name": "none"
+            }
+        ],
+        "F5": [
+            {
+                "title": "公益理念",
+                "name": "none"
+            },
+            {
+                 "title": "慈善捐助",
+                "name": "none"
+            },
+            {
+                 "title": "慈善荣誉",
+                "name": "none"
+            },
+            {
+                "title": "企业公民报告",
+                "name": "none"
+            }
+        ],
+        "F6": [
+            {
+                "title": "人才理念",
+                "name": "none"
+            },
+            {
+                 "title": "社会招聘",
+                "name": "none"
+            },
+            {
+                "title": "校园招聘",
+                "name": "none"
+            }
+        ],
+        "F7": [
+            {
+                "title": "公司资料",
+                "name": "none"
+            },
+            {
+                 "title": "企业管制",
+                "name": "none"
+            },
+            {
+                "title": "董事会及高级管理层",
+                "name": "none"
+            },
+            {
+                "title": "年报中期报告",
+                "name": "none"
+            },
+            {
+                 "title": "公告",
+                "name": "none"
+            },
+            {
+                "title": "股东通函",
+                "name": "none"
+            },
+            {
+                "title": "新闻稿",
+                "name": "none"
+            },
+            {
+                 "title": "股份资料",
+                "name": "none"
+            },
+            {
+                "title": "联络投资者关系部",
+                "name": "none"
+            }
+        ],
+        "F8": [
+            {
+                "title": "联系方式",
+                "name": "none"
+            },
+            {
+                 "title": "投诉建议",
+                "name": "none"
+            },
+            {
+                "title": "廉政举报",
+                "name": "none"
+            }
+        ]
+}
